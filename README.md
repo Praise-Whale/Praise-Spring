@@ -1,7 +1,7 @@
 # `Praise Spring Server`
 
 - `CI/CD 파이프라인 성공`
-    - `Github`- `CodeBuild`- `CodeDeploy`- `S3` - `Codepipeline`
+    - `Github`- `CodeBuild`- `CodeDeploy`- `S3` - `EC2(로드 밸런싱 사용 x)` - `Codepipeline`
     
 ![ar](https://t1.daumcdn.net/cfile/tistory/99A7B34E5AC9EF4720)
 

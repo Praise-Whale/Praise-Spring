@@ -10,7 +10,7 @@ phases:
       - pwd
 artifacts:
   files:
-    - build/libs/*.jar
+    - target/*.jar
   discard-paths: yes
 
 cache:

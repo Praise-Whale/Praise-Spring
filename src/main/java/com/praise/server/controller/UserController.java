@@ -11,6 +11,6 @@ public class UserController {
 
     @GetMapping("/")
     public String test() {
-        return "Dockerfile Nginx..";
+        return "테스트 ㅎ,ㅎ";
     }
 }

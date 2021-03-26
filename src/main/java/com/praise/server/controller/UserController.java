@@ -11,6 +11,6 @@ public class UserController {
 
     @GetMapping("/")
     public String test() {
-        return "Dockerfile 추가";
+        return "Dockerfile 추가 ~~~";
     }
 }
